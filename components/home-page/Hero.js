@@ -1,4 +1,4 @@
-import classes from "./hero.module.css";
+import classes from "./Hero.module.css";
 import Image from "next/image";
 
 function Hero() {
